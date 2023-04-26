@@ -1,0 +1,209 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\ApplicationInsights.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\csc.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\csc.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\csc.rsp
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\csi.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\csi.rsp
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\vbc.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\vbc.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\vbc.rsp
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Api.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Api.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Api.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Antlr3.Runtime.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Newtonsoft.Json.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Helpers.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Http.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Mvc.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Optimization.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Razor.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.WebPages.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Common.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Models.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Repositories.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Services.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Unity.Abstractions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Unity.Container.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Unity.Interception.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\WebGrease.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Common.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Common.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Models.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Models.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Repositories.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Repositories.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Services.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\TaskPool.Services.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Newtonsoft.Json.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Http.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Helpers.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Mvc.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Optimization.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Razor.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.WebPages.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Unity.Abstractions.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Unity.Container.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Unity.Interception.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\obj\Debug\TaskPool.Api.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\obj\Debug\TaskPool.Api.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\obj\Debug\TaskPool.Api.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Cors.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\System.Web.Http.Cors.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Api\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\ApplicationInsights.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\csc.exe
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\csc.exe.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\csc.rsp
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\csi.exe
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\csi.rsp
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\System.AppContext.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\vbc.exe
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\vbc.exe.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\vbc.rsp
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\VBCSCompiler.exe
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Api.dll.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Api.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Api.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Antlr3.Runtime.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.DependencyCollector.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.Web.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.WindowsServer.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.ApplicationInsights.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Newtonsoft.Json.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Net.Http.Formatting.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Threading.Tasks.Extensions.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Cors.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Helpers.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Http.Cors.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Http.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Http.WebHost.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Mvc.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Optimization.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Razor.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.WebPages.Deployment.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.WebPages.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.WebPages.Razor.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Common.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Models.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Repositories.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Services.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Unity.Abstractions.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Unity.Container.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Unity.Interception.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\WebGrease.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\EntityFramework.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Common.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Common.dll.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Models.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Models.dll.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Repositories.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Repositories.dll.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Services.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\TaskPool.Services.dll.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Newtonsoft.Json.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Net.Http.Formatting.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Threading.Tasks.Extensions.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Http.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Http.Cors.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Http.WebHost.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Helpers.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Mvc.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Optimization.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.Razor.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.WebPages.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.WebPages.Deployment.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\System.Web.WebPages.Razor.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Unity.Abstractions.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Unity.Container.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Unity.Interception.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Antlr3.Runtime.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.ApplicationInsights.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.DependencyCollector.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.WindowsServer.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\Microsoft.AI.Web.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\EntityFramework.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\obj\Debug\TaskPool.Api.csprojResolveAssemblyReference.cache
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\obj\Debug\TaskPool.Api.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\obj\Debug\TaskPool.Api.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\EntityFramework.SqlServer.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Api\bin\EntityFramework.SqlServer.xml

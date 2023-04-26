@@ -1,0 +1,59 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Repositories.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Repositories.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Repositories.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Models.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Abstractions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Container.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Interception.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Models.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Models.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Container.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Interception.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\obj\Debug\TaskPool.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\obj\Debug\TaskPool.Repositories.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Repositories\obj\Debug\TaskPool.Repositories.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Repositories.dll.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Repositories.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Repositories.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\EntityFramework.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Newtonsoft.Json.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Models.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Abstractions.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Container.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Interception.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Models.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Models.dll.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\EntityFramework.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Newtonsoft.Json.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Abstractions.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Container.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\Unity.Interception.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\obj\Debug\TaskPool.Repositories.csprojResolveAssemblyReference.cache
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\obj\Debug\TaskPool.Repositories.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\obj\Debug\TaskPool.Repositories.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Common.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Common.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Repositories\bin\Debug\TaskPool.Common.dll.config

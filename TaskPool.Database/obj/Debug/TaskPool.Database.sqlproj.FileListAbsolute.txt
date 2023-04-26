@@ -1,0 +1,14 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Database\bin\Debug\TaskPool.Database.dacpac
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Database\bin\Debug\TaskPool.Database.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Database\bin\Debug\TaskPool.Database.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Database\obj\Debug\TaskPool.Database.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Database\obj\Debug\TaskPool.Database.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Database\bin\Debug\TaskPool.Database.dacpac
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Database\bin\Debug\TaskPool.Database.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Database\bin\Debug\TaskPool.Database.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Database\obj\Debug\TaskPool.Database.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Database\obj\Debug\TaskPool.Database.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Database\obj\Debug\Model.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Database\obj\Debug\refactor.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Database\obj\Debug\postdeploy.sql
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Database\obj\Debug\predeploy.sql

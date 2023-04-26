@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{500C1391-2A84-4161-98F3-8DF547D92D49}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TaskPool.Models</RootNamespace>
+    <AssemblyName>TaskPool.Models</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=3.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.Common.dll.3.1.0\lib\2.0\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Validation, Version=5.0.414.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.EnterpriseLibrary.Validation.4.0.30319\lib\net\Microsoft.Practices.EnterpriseLibrary.Validation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ObjectBuilder, Version=1.0.51206.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Practices.ObjectBuilder.dll.3.1.0\lib\2.0\Microsoft.Practices.ObjectBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.4.5.2\lib\netstandard1.0\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.2\lib\portable-net45+win8+wp8+wpa81\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Unity.Abstractions, Version=5.11.2.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.11.2\lib\net45\Unity.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Container, Version=5.11.4.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.Container.5.11.4\lib\net45\Unity.Container.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Interception, Version=5.11.1.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.Interception.5.11.1\lib\net45\Unity.Interception.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DBModels\Payment_Details_History.cs" />
+    <Compile Include="DBModels\Project_Details_History.cs" />
+    <Compile Include="DBModels\Tbl_Mst_User_Manage.cs" />
+    <Compile Include="DBModels\Tbl_Login_Manage.cs" />
+    <Compile Include="DBModels\Logs.cs" />
+    <Compile Include="DBModels\Package_Plan.cs" />
+    <Compile Include="DBModels\Payment_Details.cs" />
+    <Compile Include="DBModels\Project_Category.cs" />
+    <Compile Include="DBModels\Login.cs" />
+    <Compile Include="DBModels\Project_Details.cs" />
+    <Compile Include="DBModels\User_Details_History.cs" />
+    <Compile Include="DBModels\User_Details.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Request\AddPackagePlan.cs" />
+    <Compile Include="Request\AddProjectCategory.cs" />
+    <Compile Include="Request\GetPostByUserRequest.cs" />
+    <Compile Include="Request\GetPostRequest.cs" />
+    <Compile Include="Request\AddProjectRequest.cs" />
+    <Compile Include="Request\JqueryDatatableRequest.cs" />
+    <Compile Include="Request\UpdatePaymentDetailsByUserRequest.cs" />
+    <Compile Include="Request\VerifyProjectDetailsRequest.cs" />
+    <Compile Include="Request\VerifyUserDetailsRequest.cs" />
+    <Compile Include="Responce\AddPackagePlanResponse.cs" />
+    <Compile Include="Responce\AddProjectCategoryResponse.cs" />
+    <Compile Include="Responce\GetCategoryMasterResponce.cs" />
+    <Compile Include="Responce\GetUserByUserNamePasswordResponce.cs" />
+    <Compile Include="Responce\GetPackagesResponse.cs" />
+    <Compile Include="Responce\GetPaymentDetailsByUserResponse.cs" />
+    <Compile Include="Responce\GetPostByUserResponce.cs" />
+    <Compile Include="Responce\GetPostResponce.cs" />
+    <Compile Include="Responce\AddProjectResponce.cs" />
+    <Compile Include="Responce\GetCategoryResponce.cs" />
+    <Compile Include="Responce\GoogleLocation.cs" />
+    <Compile Include="Responce\GetProjectDetailsByUserResponse.cs" />
+    <Compile Include="Responce\GetVerificationDetailsByUserResponse.cs" />
+    <Compile Include="Responce\JqueryPackagePlanDatatableResponse.cs" />
+    <Compile Include="Responce\JqueryPaymentDetailsDatatableResponse.cs" />
+    <Compile Include="Responce\JqueryProjectCategoryDatatableResponse.cs" />
+    <Compile Include="Responce\JqueryProjectDetailsDatatableResponse.cs" />
+    <Compile Include="Responce\JqueryUserDetailsDatatableResponse.cs" />
+    <Compile Include="Responce\LoginResponce.cs" />
+    <Compile Include="Responce\PaymentDetailsResponce.cs" />
+    <Compile Include="Responce\ProjectDetailsResponce.cs" />
+    <Compile Include="Responce\UpdatePaymentDetailsByUserResponse.cs" />
+    <Compile Include="Responce\UpdateProjectDetailsByUserResponse.cs" />
+    <Compile Include="Responce\UpdateUserVerificationDetailsByUserResponse.cs" />
+    <Compile Include="Responce\UserDetailsResponce.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

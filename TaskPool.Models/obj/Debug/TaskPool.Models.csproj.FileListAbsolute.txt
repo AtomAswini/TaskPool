@@ -1,0 +1,42 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\TaskPool.Models.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\TaskPool.Models.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\TaskPool.Models.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Unity.Abstractions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Unity.Container.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Unity.Interception.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Unity.Container.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\bin\Debug\Unity.Interception.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\obj\Debug\TaskPool.Models.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\obj\Debug\TaskPool.Models.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskPool\TaskPool.Models\obj\Debug\TaskPool.Models.csprojResolveAssemblyReference.cache
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\TaskPool.Models.dll.config
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\TaskPool.Models.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\TaskPool.Models.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Unity.Abstractions.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Unity.Container.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Unity.Interception.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Newtonsoft.Json.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Unity.Abstractions.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Unity.Container.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\bin\Debug\Unity.Interception.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\obj\Debug\TaskPool.Models.dll
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\obj\Debug\TaskPool.Models.pdb
+D:\Project\MindTrickTaskPool\TaskPool\TaskPool.Models\obj\Debug\TaskPool.Models.csprojResolveAssemblyReference.cache
